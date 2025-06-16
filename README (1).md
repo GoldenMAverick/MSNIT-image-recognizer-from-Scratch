@@ -118,9 +118,7 @@ The model achieves decent accuracy (~85–90%) on MNIST with just 500 iterations
 
 ---
 
-## 📎 License
 
-This project is licensed under the MIT License.
 
 ---
 
